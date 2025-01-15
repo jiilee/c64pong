@@ -40,6 +40,9 @@ To start the game, run:
 run.bat
 ```
 
+### Game running on the C64 mini
+<img src="Screenshot-2025-01-15.png" alt="C64 Pong Screenshot"></img>
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
